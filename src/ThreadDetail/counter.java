@@ -1,7 +1,7 @@
 package ThreadDetail;
 
 public class counter {
-    private int j = 1;
+    private volatile int j = 1;
 
     // 加线程
     private class Inc implements Runnable {
