@@ -12,5 +12,7 @@ public class Inc {
     void fermin(int i){
         i++;
     }aaaaaaaaaa
+
+    user1
 }
 
